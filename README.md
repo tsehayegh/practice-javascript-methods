@@ -1,0 +1,1 @@
+This app helps you to practice some of the definistion of JavaScript Array Methods. A definistion of a method and four choices of methods will be provided. Choose the right methods that fits to the definition of the method and submit your answer. The app will tell you if you get it right or the right answer if you didn't choose the right choice. 
