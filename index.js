@@ -122,7 +122,7 @@ function determineSelectedChoice(){
       $('.info').html("Good job! You got that right!");
       $('.info').css("color","blue");
     } else {
-      $('.info').html(`Sorry, the correct answer was ${correctAnswer}`);
+      $('.info').html(`Sorry, the correct answer was <em>${correctAnswer}</em>`);
       $('.info').css("color","red");
     }
     indexCounter = countCorrectAnswersAttemptedQuestions(methods, 'status');
